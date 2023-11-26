@@ -2,7 +2,7 @@
 
 ### Hi there, I am Phuong Nguyen👋
 
-> A Front end developer from **Viet Nam*.
+> A Front end developer from **Viet Nam**.
 
 ### 🏗️ Learning:
 
